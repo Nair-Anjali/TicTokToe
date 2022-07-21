@@ -1,0 +1,23 @@
+.introContent {
+  position: absolute;
+  left: 5%;
+  display: inline-block;
+}
+
+.gameBoad {
+  width: 90%;
+  position: relative;
+  margin-left: 100px;
+  display: inline-block;
+}
+
+.intro {
+  display: inline-block;
+  width: 600px;
+  margin: 0px, 50px, 0px, 0px;
+}
+
+.parentContainer {
+  display: flex;
+  width: 1000px;
+}
